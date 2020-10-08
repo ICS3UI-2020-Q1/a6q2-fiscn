@@ -1,7 +1,7 @@
 import java.util.Scanner; 
 
 /**
- *
+ * The program that will populate a 10 element array (put values into an array) with integers. Once the array is full, the user enter a number to search for. Your program will then search through the array and state any index that the number is located at.
  * @author Neil Fischer
  */
 public class Main {
